@@ -79,21 +79,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-11-04">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <surface ulx="0" uly="0" lrx="4556" lry="3460">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0013/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="4546" lry="3458">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0014/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5692" lry="7746">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5692" lry="7752">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/"/>
-      </surface>
-   </facsimile>
-   <text type="letter">
+   <text>
       <body>
          <div xml:id="transcription">
             <pb/>
@@ -127,7 +113,6 @@ for any purpose, even commercially.</p>
                <lg>
                   <l><unclear>M</unclear>ay <unclear>H</unclear>ymen from jealousy's</l>
                   <l><space quantity="4" unit="char"/>Teratoid ph<gap quantity="1" unit="char" reason="illegible"/>n<del><unclear>r</unclear></del>tasms,</l>
-            <pb/>     
                   <l><gap quantity="1" unit="char" reason="illegible"/>o<gap quantity="1" unit="char" reason="illegible"/>p<unclear>e</unclear>tit<del>v<unclear>e</unclear></del>ive s<unclear>ce</unclear>n<unclear>e</unclear>s <unclear>a</unclear>nd su<gap quantity="2" unit="char" reason="illegible"/><unclear>s,</unclear></l>
                   <l><space quantity="4" unit="char"/><unclear>A</unclear>nd pride's monologu<unclear>e</unclear></l>
                   <l>That won't listen but demands</l>
